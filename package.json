@@ -1,0 +1,12 @@
+{
+  "name": "jnn-services-web",
+  "version": "1.0.0",
+  "description": "JNN Services Executive HR & Recruitment Consultancy Web Application",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y serve -l 3000 ."
+  },
+  "keywords": ["hr", "recruitment", "consultancy", "jnn-services"],
+  "author": "JNN Services",
+  "license": "MIT"
+}
